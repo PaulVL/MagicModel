@@ -1,0 +1,21 @@
+{
+    "name": "paulvl/magicmodel",
+    "description": "Eloquent's extended Model with extra features.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Vidal",
+            "email": "paul.vidal.lujan@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "PaulVL\\MagicModel": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
